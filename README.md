@@ -31,8 +31,8 @@ Create a modular and scalable architecture:
 Leverage the V0 structure for prototyping while preparing to adapt the final implementation to the hackathon's requirements.
 Demonstrate adaptability:
 Show how the prototype can evolve to meet Cardano governance standards, such as CIP-1694 and other technical specifications.
-What to Focus On
-Prototype First, Code Later
+What to Focus On:
+Prototype First, Code Later.
 This project highlights the prototype rather than the codebase. We recommend exploring the platform to understand how it fulfills governance needs:
 
 https://v0.dev/chat/7jRn1xccshZ?b=b_6S3A48fSHwA or https://kzmgo87jvtrxpv24ydz5.lite.vusercontent.net/
