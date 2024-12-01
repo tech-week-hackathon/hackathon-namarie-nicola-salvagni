@@ -1,4 +1,4 @@
-Cardano Governance Dashboard
+
 Project Overview
 The Cardano Governance Dashboard is a web-based prototype designed to enhance participation in Cardano's governance ecosystem. This dashboard focuses on creating a seamless user experience for delegators and Delegated Representatives (DReps), while also offering a structured approach to exploring proposals, managing voting power, and fostering community interaction.
 
