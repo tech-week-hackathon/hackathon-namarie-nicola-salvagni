@@ -7,7 +7,7 @@ The unique aspect of this project lies in its development process. We prioritize
 The Role of V0 in the Development Process
 V0 was instrumental in helping us:
 
-Rapidly Prototype: https://v0.dev/chat/7jRn1xccshZ?b=b_6S3A48fSHwA
+Rapidly Prototype: https://v0.dev/chat/7jRn1xccshZ?b=b_6S3A48fSHwA or https://kzmgo87jvtrxpv24ydz5.lite.vusercontent.net/
 
 Enabled quick iterations to conceptualize the platform’s user interface and interactions.
 Allowed testing of functionalities like delegation, proposal exploration, and DRep interactions.
@@ -35,7 +35,7 @@ What to Focus On
 Prototype First, Code Later
 This project highlights the prototype rather than the codebase. We recommend exploring the platform to understand how it fulfills governance needs:
 
-https://v0.dev/chat/7jRn1xccshZ?b=b_6S3A48fSHwA
+https://v0.dev/chat/7jRn1xccshZ?b=b_6S3A48fSHwA or https://kzmgo87jvtrxpv24ydz5.lite.vusercontent.net/
 
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/gwqsiey-)
